@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sat Oct 12 01:21:07 BDT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0141-a8f7-1596-000002fbe800 
+on database directory /home/muhit/NetBeansProjects/AddressBook/AddressBook  with class loader sun.misc.Launcher$AppClassLoader@1cc3baa 
+Loaded from file:/home/muhit/NetBeansProjects/AddressBook/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b15
+user.dir=/home/muhit/NetBeansProjects/AddressBook
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
